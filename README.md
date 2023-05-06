@@ -22,7 +22,7 @@ This script requires Python 3 and the cryptography library. The script has been 
 
 ## License
 
-This script is released under the MIT license. See LICENSE for more details.
+This script is released under the [MIT License](LICENSE.md). See LICENSE for more details.
 
 
 
